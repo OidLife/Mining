@@ -6,9 +6,9 @@ If you plan on solo mining OID, it is recommended sending 10% per block as per o
 reward is deamed as a cause fee. Out of 10%, 5% goes toward our treatment partners and 5% toward our team. 
 
 # Respect
-We recommend you mine at any of these available pool(s). The 10% fee comes out automatically. 
+We recommend you mine at any of these available pool(s) as the 10% fee comes out automatically. If you plan on setting up your own pool, please go to -> https://github.com/OidLife/Pools.
 
-# Pool(s)
+# Listed Pool(s)
 (You may submit your pool info to us by going to -> https://oid.life/submitMyPool. Please adhere to our Code of Conduct when running a pool. Find the Code of Conduct -> https://github.com/OidLife/Conduct.)
 
 website stats -> https://oidpool.com
@@ -24,7 +24,7 @@ Format your OID wallet address with a worker name -> oid_wallet_address.workerna
 E.g ```DPpyxuy6eJVyDaHJAcbEnJwNZtRVdPMdgn.rig1```
 
 ## More about mining 
-It's very important to understand that we take ## NO RESPONSIBILITY ## of mining, software and/or hardware etc. ## USE AT YOUR OWN RISK ##.  
+It's very important to understand that we take ** NO RESPONSIBILITY ** of mining, software and/or hardware etc. ** USE AT YOUR OWN RISK **.  
 
 ## Mining Programs
 
