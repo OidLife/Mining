@@ -29,13 +29,13 @@ It's very important to understand that we take **NO RESPONSIBILITY** of mining, 
 ## Mining Programs
 
 ### Awesome Miner (We recommend this software)
-Getting Started -> http://www.awesomeminer.com/help/start.aspx
+Getting Started -> https://www.awesomeminer.com/help/start.aspx
 
-Windows download -> http://www.awesomeminer.com/download/setup/AwesomeMiner.msi
+Windows download -> https://www.awesomeminer.com/download/setup/AwesomeMiner.msi
 
 ### sgminer
 #### V - 4.2.1 (Windows)
-http://cryptomining-blog.com/wp-content/download/sgminer-4-2-1-windows.zip
+https://cryptomining-blog.com/wp-content/download/sgminer-4-2-1-windows.zip
 
 #### latest release (Windows)
 https://github.com/genesismining/sgminer-gm/releases/download/5.5.5/sgminer-gm.zip
@@ -44,6 +44,6 @@ https://github.com/genesismining/sgminer-gm/releases/download/5.5.5/sgminer-gm.z
 https://github.com/nicehash/sgminer
 
 ### cgminer - 3.7.2 Latest version with GPU support (any version beyond only supports ASIC mining)
-http://cryptomining-blog.com/wp-content/download/cgminer-3.7.2-windows.rar
+https://cryptomining-blog.com/wp-content/download/cgminer-3.7.2-windows.rar
 
 
