@@ -24,7 +24,7 @@ Format your OID wallet address with a worker name -> oid_wallet_address.workerna
 E.g ```DPpyxuy6eJVyDaHJAcbEnJwNZtRVdPMdgn.rig1```
 
 ## More about mining 
-It's very important to understand that we take ** NO RESPONSIBILITY ** of mining, software and/or hardware etc. ** USE AT YOUR OWN RISK **.  
+It's very important to understand that we take **NO RESPONSIBILITY** of mining, software and/or hardware etc. **USE AT YOUR OWN RISK**.  
 
 ## Mining Programs
 
