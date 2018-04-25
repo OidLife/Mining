@@ -24,11 +24,14 @@ More info to come.
 ### Awesome Miner (We recommend this software)
 http://www.awesomeminer.com/download/setup/AwesomeMiner.msi
 
-### sgminer 4.2.1 for windows
+### sgminer 4.2.1 (Windows)
 http://cryptomining-blog.com/wp-content/download/sgminer-4-2-1-windows.zip
 
-### sgminer latest release
+### sgminer latest release (Windows)
 https://github.com/genesismining/sgminer-gm/releases/download/5.5.5/sgminer-gm.zip
+
+### sgminer (Linux)
+https://github.com/nicehash/sgminer
 
 ### cgminer - 3.7.2 Latest version with GPU support (any version beyond only supports ASIC mining)
 http://cryptomining-blog.com/wp-content/download/cgminer-3.7.2-windows.rar
