@@ -9,12 +9,19 @@ reward is deamed as a cause fee. Out of 10%, 5% goes toward our treatment partne
 We recommend you mine at any of these available pool(s). The 10% fee comes out automatically. 
 
 # Pool(s)
-https://oidpool.com
+(You may submit your pool info to us by going to -> https://oid.life/submitMyPool. Please adhere to our Code of Conduct when running a pool. Find the Code of Conduct -> https://github.com/OidLife/Conduct.)
 
-Pool ports:
-3008: 8 dif
-3032: 32 dif
-3256: 256 dif
+website stats -> https://oidpool.com
+
+Stratum Pool ports (point your miner to):
+
+```oidpool.com:3008``` 8 dif
+```oidpool.com:3032``` 32 dif
+```oidpool.com:3256``` 256 dif
+
+Format your OID wallet address with a worker name -> oid_wallet_address.workername
+
+E.g ```DPpyxuy6eJVyDaHJAcbEnJwNZtRVdPMdgn.rig1```
 
 ## Mining 
 More info to come. 
