@@ -22,15 +22,17 @@ More info to come.
 ## Mining Programs
 
 ### Awesome Miner (We recommend this software)
-http://www.awesomeminer.com/download/setup/AwesomeMiner.msi
+Getting Started -> http://www.awesomeminer.com/help/start.aspx
+Windows download -> http://www.awesomeminer.com/download/setup/AwesomeMiner.msi
 
-### sgminer 4.2.1 (Windows)
+### sgminer
+#### V - 4.2.1 (Windows)
 http://cryptomining-blog.com/wp-content/download/sgminer-4-2-1-windows.zip
 
-### sgminer latest release (Windows)
+#### latest release (Windows)
 https://github.com/genesismining/sgminer-gm/releases/download/5.5.5/sgminer-gm.zip
 
-### sgminer (Linux)
+#### Linux
 https://github.com/nicehash/sgminer
 
 ### cgminer - 3.7.2 Latest version with GPU support (any version beyond only supports ASIC mining)
