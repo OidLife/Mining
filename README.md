@@ -23,6 +23,7 @@ More info to come.
 
 ### Awesome Miner (We recommend this software)
 Getting Started -> http://www.awesomeminer.com/help/start.aspx
+
 Windows download -> http://www.awesomeminer.com/download/setup/AwesomeMiner.msi
 
 ### sgminer
