@@ -2,8 +2,7 @@
 Where/how to mine the Opioid (OID) coin
 
 # Cause
-If you plan on solo mining OID, it is recommended sending 10% per block as per our Code of Conduct. Remember 10% of each block
-reward is deamed as a cause fee. Out of 10%, 5% goes toward our treatment partners and 5% toward our team. 
+If you plan on solo mining OID, it is recommended sending 10% per block as per our Code of Conduct. Remember 10% of each block reward is deamed as a cause fee. Out of 10%, 5% goes toward our treatment partners and 5% toward our team. 
 
 # Respect
 We recommend you mine at any of these available pool(s) as the 10% fee comes out automatically. If you plan on setting up your own pool, please go to -> https://github.com/OidLife/Pools.
@@ -28,28 +27,26 @@ It's very important to understand that we take **NO RESPONSIBILITY** of mining, 
 
 ## Mining Programs
 
-### Awesome Miner (We recommend this software)
-Getting Started -> https://www.awesomeminer.com/help/start.aspx
-
+### Awesome Miner (We recommend this software)  
+Getting Started -> https://www.awesomeminer.com/help/start.aspx  
 Windows download -> https://www.awesomeminer.com/download/setup/AwesomeMiner.msi
 
 ### sgminer
-#### V - 4.2.1 (Windows)
+#### V - 4.2.1 (Windows)  
 https://cryptomining-blog.com/wp-content/download/sgminer-4-2-1-windows.zip
 
-#### latest release (Windows)
+#### latest release (Windows)  
 https://github.com/genesismining/sgminer-gm/releases/download/5.5.5/sgminer-gm.zip
 
-#### Linux
+#### Linux  
 https://github.com/nicehash/sgminer
 
-### cgminer - 3.7.2 Latest version with GPU support (any version beyond only supports ASIC mining)
+### cgminer - 3.7.2 Latest version with GPU support (any version beyond only supports ASIC mining)  
 https://cryptomining-blog.com/wp-content/download/cgminer-3.7.2-windows.rar
 
 
 
-Thank you,
-
+Thank you,  
 [OID Team](https://oid.life/)
 
 
