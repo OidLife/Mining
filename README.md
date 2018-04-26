@@ -32,16 +32,16 @@ Getting Started -> https://www.awesomeminer.com/help/start.aspx
 Windows download -> https://www.awesomeminer.com/download/setup/AwesomeMiner.msi
 
 ### sgminer
-#### V - 4.2.1 (Windows)  
+##### V - 4.2.1 (Windows)   
 https://cryptomining-blog.com/wp-content/download/sgminer-4-2-1-windows.zip
 
-#### latest release (Windows)  
+##### latest release (Windows)   
 https://github.com/genesismining/sgminer-gm/releases/download/5.5.5/sgminer-gm.zip
 
-#### Linux  
+##### Linux   
 https://github.com/nicehash/sgminer
 
-### cgminer - 3.7.2 Latest version with GPU support (any version beyond only supports ASIC mining)  
+### cgminer - 3.7.2 Latest version with GPU support (any version beyond only supports ASIC mining)   
 https://cryptomining-blog.com/wp-content/download/cgminer-3.7.2-windows.rar
 
 
