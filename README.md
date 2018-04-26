@@ -14,9 +14,9 @@ website stats -> https://oidpool.com
 
 Stratum Pool ports (point your miner to):
 
-```oidpool.com:3008``` 8 dif
-```oidpool.com:3032``` 32 dif
-```oidpool.com:3256``` 256 dif
+```oidminingpool.com:3008``` 8 dif
+```oidminingpool.com:3032``` 32 dif
+```oidminingpool.com:3256``` 256 dif
 
 Format your OID wallet address with a worker name -> oid_wallet_address.workername
 
