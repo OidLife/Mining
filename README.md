@@ -46,6 +46,10 @@ https://github.com/nicehash/sgminer
 ### cgminer - 3.7.2 Latest version with GPU support (any version beyond only supports ASIC mining)
 https://cryptomining-blog.com/wp-content/download/cgminer-3.7.2-windows.rar
 
+
+
 Thank you,
 
 [OID Team](https://oid.life/)
+
+
