@@ -18,9 +18,12 @@ Stratum Pool ports (point your miner to):
 ```oidminingpool.com:3032``` 32 dif  
 ```oidminingpool.com:3256``` 256 dif  
 
-Format your OID wallet address with a worker name -> oid_wallet_address.workername
+Your OID wallet address is your worker name -> oid_wallet_address
 
-E.g ```DPpyxuy6eJVyDaHJAcbEnJwNZtRVdPMdgn.rig1```
+Note: Do not format as ```DPpyxuy6eJVyDaHJAcbEnJwNZtRVdPMdgn.Rig1```  
+
+Use -> E.g ```DPpyxuy6eJVyDaHJAcbEnJwNZtRVdPMdgn```
+
 
 ## More about mining 
 It's very important to understand that we take **NO RESPONSIBILITY** of mining, software and/or hardware etc. **USE AT YOUR OWN RISK**.  
