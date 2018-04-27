@@ -7,6 +7,10 @@ If you plan on solo mining OID, it is recommended sending 10% per block as per o
 # Respect
 We recommend you mine at any of these available pool(s) as the 10% fee comes out automatically. If you plan on setting up your own pool, please go to -> https://github.com/OidLife/Pools.
 
+##### Current Release has 0 tx fees; however please respect our Code of Conduct when solo mining or from a pool. 
+-> Block reward split 90/10 (90 to miner/ 10 to OID)  
+Example: When you earn 500 OID, 10% needs to go to -> `DGGEUnSihQcM2RKv5a7vujJjJkCYEzgXkY`
+
 # Listed Pool(s)
 (You may submit your pool info to us by going to -> https://oid.life/submitMyPool. Please adhere to our Code of Conduct when running a pool. Find the Code of Conduct -> https://github.com/OidLife/Conduct.)
 
