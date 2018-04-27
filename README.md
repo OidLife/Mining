@@ -18,11 +18,14 @@ Stratum Pool ports (point your miner to):
 ```oidminingpool.com:3032``` 32 dif  
 ```oidminingpool.com:3256``` 256 dif  
 
+### OID wallet address is how you get your block rewards.
 Your OID wallet address is your worker name -> oid_wallet_address
 
 Note: Do not format as ```DPpyxuy6eJVyDaHJAcbEnJwNZtRVdPMdgn.Rig1```  
 
 Use -> E.g ```DPpyxuy6eJVyDaHJAcbEnJwNZtRVdPMdgn```
+
+P: `x` *single digit*
 
 
 ## More about mining 
